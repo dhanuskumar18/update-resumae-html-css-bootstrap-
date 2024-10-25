@@ -1,0 +1,94 @@
+.ch {
+    background-color:#0F1035;
+    width: 100%;
+}
+
+.ha,body {
+    background-color:#7FC7D9;
+    
+     
+}
+.nb {
+    color:#365486 ;
+    letter-spacing: 4px;
+    
+}
+.nm {
+    color:#365486 ;
+   .su {
+    margin-left: 3px;
+   }
+
+}
+.dd {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+    .st::marker {
+        color:#DCF2F1 ;
+        
+    }
+.imgd {
+    position: relative;
+    bottom: 40px;
+    left: 20px;
+}
+
+.card1 {
+    background-color:#0F1035;
+}
+.lbb {
+    color:#DCF2F1;
+    font-weight:bold;
+    
+    }
+.bsc {
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    margin-bottom: 14px;
+    width: fit-content;
+}
+.im {
+    position: relative;
+    bottom: 18px;
+}
+.mov {
+    margin-right: 10px;
+}
+.ll:hover{
+    letter-spacing: 4px;
+    font-size:x-large;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color: #365486;
+    border-radius: 40px;
+}
+.ll{
+    letter-spacing: 4px;
+    font-size: large;
+    font-weight: normal;
+    font-family: sans-serif;
+}
+.nn {
+    border-radius: 8px;
+    background-color: aliceblue;
+    margin-right: 30px;
+   
+}
+
+.dropdown-menu {
+    background-color: rgb(210, 232, 240);
+    color:#0F1035;
+}
+
+.na {
+    display: none;
+}
+http://127.0.0.1:3000/index.html
+
+.KK {
+    font-family:sans-serif;
+}
+
+header {
+    width:max-content;
+}
